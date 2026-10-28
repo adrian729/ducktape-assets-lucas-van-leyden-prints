@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: winged-child-with-cross-on-clouds
+title: Winged child with a cross on clouds
+description: A winged child in a loose robe sits on a bank of clouds, seen three-quarter from behind and facing left. The left arm stretches straight out to the left across the face, the right hand holds a tall thin cross on a staff that leans to the upper left, and one bare foot rests on the cloud below. Black ink with hatched shading; the cream paper tone is kept inside the figure, robe and clouds, and the background is transparent.
+type: illustration
+categories:
+  - humans
+  - fantasy
+subjects:
+  - putto
+  - wings
+  - cloud
+  - cross
+  - robe
+colors:
+  - cream
+  - brown
+  - black
+facing: left
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - { asset: lucas-van-leyden-prints/acanthus-double-medallion-winged-figures, role: variant }
+  - { asset: lucas-van-leyden-prints/winged-child-with-bow-on-clouds, role: companion }
+usage_notes:
+  - Cut from the right medallion of the double-medallion ornament; the clouds give it a soft rounded base, so it sits on a line or in a roundel.
+  - Faces left; pairs with the torch-and-bow child, which faces right.
+display_width:
+  - 150
+  - 350
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Two Putti Seated in Clouds in Circles with Tendrils
+  object_identifier: 63.546.1
+  date: "1517"
+  artist: Lucas van Leyden
+  record_url: https://www.metmuseum.org/art/collection/search/364800
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP819073.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: bbc95013cba018fc6acffad61f1ae5644e2a937c9998078f452dec37bac42e39
+license: null

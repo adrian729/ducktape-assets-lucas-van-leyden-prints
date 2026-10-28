@@ -1,0 +1,63 @@
+# descriptive: find it and understand it
+id: acanthus-double-medallion-winged-figures
+title: Two linked medallions with winged children on clouds
+description: Two engraved circular medallion rings joined side by side by a leaf clasp, each tied with a leaf knot at top and bottom. In the left ring a naked winged putto sits on clouds facing right with a flaming torch and a bow, a quiver beside him; in the right ring a robed winged child sits on clouds facing left, one arm outstretched, holding a tall cross on a staff. Acanthus tendrils spring from the four corners and two small serpent-like creatures curl under the rings. Black ink with hatched shading; the cream paper tone is kept inside the forms, the field inside and around the rings is transparent.
+type: ornament
+categories:
+  - humans
+  - fantasy
+  - scrollwork
+subjects:
+  - medallion
+  - putto
+  - wings
+  - cloud
+  - torch
+  - bow
+  - quiver
+  - cross
+  - robe
+  - acanthus
+  - leaf
+  - scroll
+  - creature
+colors:
+  - cream
+  - brown
+  - black
+facing: mixed
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - { asset: lucas-van-leyden-prints/winged-child-with-bow-on-clouds, role: variant }
+  - { asset: lucas-van-leyden-prints/winged-child-with-cross-on-clouds, role: variant }
+usage_notes:
+  - Complete piece; the two children are also available on their own without the rings, as separate assets of this set.
+  - Wide (about 1.6:1); it reads as a headpiece or a paired-roundel ornament.
+display_width:
+  - 400
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The outermost tendrils at the left and right edges run to the plate edge and are cut there.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Two Putti Seated in Clouds in Circles with Tendrils
+  object_identifier: 63.546.1
+  date: "1517"
+  artist: Lucas van Leyden
+  record_url: https://www.metmuseum.org/art/collection/search/364800
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP819073.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: bbc95013cba018fc6acffad61f1ae5644e2a937c9998078f452dec37bac42e39
+license: null
