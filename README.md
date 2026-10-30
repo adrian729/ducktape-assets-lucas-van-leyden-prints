@@ -3,7 +3,7 @@
 
 Acanthus medallions with winged putti seated in clouds, engraved by Lucas van Leyden in Leiden in 1517, from one sheet in the Metropolitan Museum of Art; loose prints by one artist, grouped by sheet.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `lucas-van-leyden-prints`, historical, 3 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `lucas-van-leyden-prints`, historical, 3 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `lucas-van-leyden-prints/acanthus-double-medallion-winged-figures`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-lucas-van-leyden-prints@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-lucas-van-leyden-prints@1.0.0/webp/acanthus-double-medallion-winged-figures-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-lucas-van-leyden-prints`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-lucas-van-leyden-prints-masters`; never put a master on a page.
